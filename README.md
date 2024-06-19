@@ -1,2 +1,2 @@
-# THREE.js Earth scene
+# Solar System
 
